@@ -4,4 +4,4 @@
 
 ## Repos
 
-- [`assets/`](/https://github.com/monda-exchange/assets)
+- [`assets/`](https://github.com/monda-exchange/assets)
